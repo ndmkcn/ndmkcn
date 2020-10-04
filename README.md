@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am new now, especially I develop myself in C # HTML5 CSS3 JS branches, my only goal is a livable world
 <!--
 **ndmkcn/ndmkcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
